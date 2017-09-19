@@ -1,6 +1,6 @@
 [submodule "bookworm-api"]
 	path = bookworm-api
-	url = /bookworm-api
+	url = https://github.com/kurtzilla-mark2/bookworm-api
 [submodule "bookworm-react"]
 	path = bookworm-react
-	url = /bookworm-react
+	url = https://github.com/kurtzilla-mark2/bookworm-react
